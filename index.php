@@ -26,24 +26,7 @@
 </head>
 <body class="index-body">
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <?php
-    $images = [
-        'dashboard.png',
-        'login.png',
-        'reports.png'
-    ];
-    foreach ($images as $img) {
-        echo '
-        <div class="thumb-wrap">
-            <a href="images/'.$img.'" target="_blank">
-                <img src="images/'.$img.'" class="thumbnail" alt="'.$img.'">
-            </a>
-            <p>'.ucfirst(str_replace('.png','',$img)).'</p>
-        </div>';
-    }
-    ?>
-</div>
+
 
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div style="background-color:#222;"lass="container-fluid">
