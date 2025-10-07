@@ -1,0 +1,10 @@
+1. Add background sa may login page. (both admin and members panel) send ako ng ilalagay na image**
+2. Change color of header from black to yellow Orange (FLVCI Equipment Inventory System)
+3. Item> Change Categories 
+	Select Category (Furniture, Musical Equipment, Audio-Visual Equipment, Linens, Connectors, Computer Peripherals, Office equipment, Others)
+4.Inventory>New>Quantity Left don't match. Same with Lost, Quantity don't match.
+5. Inventory>Add button>namely "List of Equipment Borrowed/Returned". Yung Returned Items na nasa Transaction (Pwedeng yun nalang icopy, iadd nalang sa Inventory)
+6. Yung sa print kapag magbborrow siya, kung 2 items ang hiniram, isa lang nagdidisplay sa print. pero goods naman sa returned items at borrowed. sa print lang talaga 
+
+BSCE, BSEE, BSME, BSCS, BSHM, BSM, BSCRIM, BSCA, BSBA, BSED, BEED, GRADUATE SCHOOL
+
