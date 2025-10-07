@@ -1,8 +1,8 @@
 ﻿# 🧪 Laboratory
 
 <p align="center">
-  <a href="a.png" target="_blank">
-    <img src="a.png" alt="Computer Laboratory Management System" width="400">
+  <a href="https://raw.githubusercontent.com/Rhackzlux/CLM/main/a.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Rhackzlux/CLM/main/a.png" alt="Computer Laboratory Management System" width="400">
   </a>
 </p>
 
@@ -18,5 +18,6 @@ you can **Direct Message me** on my Facebook:
 ---
 
 # ⚙️ Laboratory
+
 
 
